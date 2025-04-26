@@ -14,13 +14,13 @@ public class Aula05EstruturasCondicionais05 {
                 System.out.println("Terca-Feira");
                 break;
             case 4:
-                System.out.println("Quarta-feira");
+                System.out.println("Quarta-Feira");
                 break;
             case 5:
-                System.out.println("Quinta-feira");
+                System.out.println("Quinta-Feira");
                 break;
             case 6:
-                System.out.println("Sexta-feira");
+                System.out.println("Sexta-Feira");
                 break;
             case 7:
                 System.out.println("Sabado");
@@ -30,7 +30,7 @@ public class Aula05EstruturasCondicionais05 {
                 break;
         }
 
-        char sexo = 'M';
+        char sexo = 'F';
         switch (sexo){
             case 'M':
                 System.out.println("Homem");
