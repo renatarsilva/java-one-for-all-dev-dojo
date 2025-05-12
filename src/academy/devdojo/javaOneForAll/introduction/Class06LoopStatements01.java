@@ -1,6 +1,6 @@
-package academy.devdojo.maratonajava.introducao;
+package academy.devdojo.javaOneForAll.introduction;
 
-public class Aula06EstruturasDeRepeticao01 {
+public class Class06LoopStatements01 {
     public static void main(String[] args) {
 
         int count = 0;
@@ -9,7 +9,7 @@ public class Aula06EstruturasDeRepeticao01 {
 //        }
 //        count = 0;
         do{
-            System.out.println("dentro do do-while " + count++);
+            System.out.println("Inside do while " + count++);
         } while (count < 3);
 
         for(int i=0; i < 10 ; i++){
