@@ -10,7 +10,7 @@ public class Class07Arrays02 {
 
         name [0] = "Maki";
         name [1] = "Gojo";
-        name [2] = "May";
+        name [2] = "Itadori";
 
         System.out.println(name[2]);
 
