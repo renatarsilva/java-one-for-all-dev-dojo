@@ -18,7 +18,14 @@ public class Class08MultimensionalArrays01 {
             for (int j = 0; j < days[i].length;j++){
                 System.out.println(days[i][j]);
             }
+        }
 
+        System.out.println("--------------------------------------------------------");
+
+        for (int[] baseArray : days){
+            for(int day: baseArray){
+                System.out.println(day);
+            }
         }
     }
 }
