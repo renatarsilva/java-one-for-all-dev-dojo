@@ -1,3 +1,5 @@
+import academy.devdojo.javaOneForAll.introduction.Class08MultidimensionalArrays02;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
@@ -11,5 +13,6 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
+        Class08MultidimensionalArrays02 MinhaClasse = new Class08MultidimensionalArrays02(2);
     }
 }
