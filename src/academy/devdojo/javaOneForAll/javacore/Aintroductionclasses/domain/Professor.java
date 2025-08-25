@@ -1,12 +1,7 @@
 package academy.devdojo.javaOneForAll.javacore.Aintroductionclasses.domain;
 
-public class Student {
+public class Professor {
     public String name;
     public int age;
     public char gender;
-
-    public static void main(String[] args) {
-
-    }
 }
-

@@ -7,7 +7,7 @@ public class StudentTest01 {
         Student student = new Student();
         student.name = "Maki";
         student.age = 30;
-        student.sex = 'F';
+        student.gender = 'F';
 
         System.out.println(student.name);
     }
